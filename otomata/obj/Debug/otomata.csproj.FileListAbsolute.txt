@@ -1,0 +1,11 @@
+C:\Users\emrey\source\repos\otomata\otomata\bin\Debug\otomata.exe.config
+C:\Users\emrey\source\repos\otomata\otomata\bin\Debug\otomata.exe
+C:\Users\emrey\source\repos\otomata\otomata\bin\Debug\otomata.pdb
+C:\Users\emrey\source\repos\otomata\otomata\obj\Debug\otomata.csproj.AssemblyReference.cache
+C:\Users\emrey\source\repos\otomata\otomata\obj\Debug\otomata.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrey\source\repos\otomata\otomata\obj\Debug\otomata.Form1.resources
+C:\Users\emrey\source\repos\otomata\otomata\obj\Debug\otomata.Properties.Resources.resources
+C:\Users\emrey\source\repos\otomata\otomata\obj\Debug\otomata.csproj.GenerateResource.cache
+C:\Users\emrey\source\repos\otomata\otomata\obj\Debug\otomata.csproj.CoreCompileInputs.cache
+C:\Users\emrey\source\repos\otomata\otomata\obj\Debug\otomata.exe
+C:\Users\emrey\source\repos\otomata\otomata\obj\Debug\otomata.pdb
